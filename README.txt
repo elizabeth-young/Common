@@ -1,0 +1,1 @@
+A collection of classes to be used accross projects
